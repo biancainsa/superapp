@@ -1,0 +1,11 @@
+{
+  "name": "Súper Familiar",
+  "short_name": "Súper",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#2f855a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
